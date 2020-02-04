@@ -17,3 +17,7 @@ OBS:
 For completude sake, here's the Anitha and Deisy work I'm refering to:
 
 ANITHA, D; DEISY, C. Proposing a novel approach for classification and sequencing of Learning Objects in E-learning systems based on learning style. Journal of Intelligent & Fuzzy Systems, IOS press, v. 29, n. 2, p. 539–552, 2015
+
+My Master Thesis:
+
+<When It's published I'll put here...>
