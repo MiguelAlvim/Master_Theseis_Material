@@ -25,4 +25,4 @@ WIDROW, Bernard; LEHR, Michael A. 30 years of Adaptive Neural networks:Perceptro
 
 My Master Thesis:
 
-<When It's published I'll put here...>
+[Oficial Repository of the Federal Univesity of Juiz de Fora - Minas Gerais, Brazil](https://repositorio.ufjf.br/jspui/handle/ufjf/12593)
